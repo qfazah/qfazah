@@ -1,16 +1,18 @@
-## Hi there 👋
+# Fazah Qamar
+### Backend Developer | Python & APIs | Building Scalable Systems
 
-<!--
-**qfazah/qfazah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💎 Seeking Full-Time Opportunities 💎
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+| 🎯 Current Focus | ⚡ Projects & Practice |
+| :--- | :--- |
+| * **Actively Seeking Role:** *Entry-Level Backend Developer*<br>* **Status:** Open to Work / Immediate Joiner ⚡<br>* **Location:** Pakistan 🇵🇰 | * **Focus:** Building clean, efficient server-side logic<br>* **Logic Building:** Solving programming problems and automation tasks 🧠 |
+| **🛠️ Core Tech Stack** | **🧠 Continuous Learning** |
+| * **Languages:** Python, C, HTML, CSS<br>* **Frameworks & Databases:** Exploring Django, Flask, and SQL | * **Exploring:** RESTful API Design & Advanced Backend Architectures<br>* 💬 **Ask Me About:** Python automation and scripting |
+
+---
+
+## 🛠️ Tech Stack
